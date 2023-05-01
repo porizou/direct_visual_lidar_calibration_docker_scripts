@@ -1,0 +1,1 @@
+ros2 run direct_visual_lidar_calibration initial_guess_auto result
